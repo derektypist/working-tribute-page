@@ -1,0 +1,14 @@
+/* Body */
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+/* Title */
+#title {
+    font-weight: 700;
+    font-size: 50px;
+    position: relative;
+    top: 25px;
+}
