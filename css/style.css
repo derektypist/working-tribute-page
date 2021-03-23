@@ -12,3 +12,21 @@ body {
     position: relative;
     top: 25px;
 }
+
+/* Images */
+
+#img-div {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+#img-caption {
+    position: relative;
+    top: 15px;
+}
