@@ -123,5 +123,29 @@ const timeline = [{
 },
 
 {
+    "year": 2008,
+    "milestone": "Joined LinkedIn",
+    "url": "https://www.linkedin.com/in/derekdhammaloka"
+},
+
+{
+    "year": 2009,
+    "milestone": "Joined YouTube",
+    "url": "https://www.youtube.com/user/derekthesec"
+},
+
+{
+    "year": 2010,
+    "milestone": "Joined Facebook",
+    "url": "https://www.facebook.com/derekdhammaloka"
+},
+
+{
+    "year": 2011,
+    "milestone": "Became Associate Member of the British Computer Society (BCS)",
+    "url": "#"
+},
+
+{
     
 }];
