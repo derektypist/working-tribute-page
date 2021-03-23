@@ -66,4 +66,62 @@ const timeline = [{
     "year": 1996,
     "milestone": "Obtained First Windows PC",
     "url": "#"
+},
+
+{
+    "year": 1997,
+    "milestone": "First use of the Internet and E-mail",
+    "url": "#"
+},
+
+{
+    "year": 1998,
+    "milestone": "First use of Microsoft Excel",
+    "url": "#"
+}, 
+
+{
+    "year": 1999,
+    "milestone": "Obtained First Colour Printer (Epson Stylus 440)",
+    "url": "#"
+},
+
+{
+    "year": 2001,
+    "milestone": "Obtained First Multifunction Printer (Lexmark X73)",
+    "url": "#"
+},
+
+{
+    "year": 2002,
+    "milestone": "Attended First Conference (Vision Without Boundaries) at Hammersmith, London",
+    "url": "#"
+}, 
+
+{
+    "year": 2003,
+    "milestone": "Made First Online Purchase of Products or Services",
+    "url": "#"
+},
+
+{
+    "year": 2004,
+    "milestone": "Joined the British Computer Society (BCS) at Affiliate Level",
+    "url": "#"
+},
+
+{
+    "year": 2006,
+    "milestone": "First ride on Eurostar to Paris, France",
+    "url": "#"
+},
+
+{
+    "year": 2007,
+    "milestone": "Attended First Black Tie Event in Coventry, England",
+    "url": "#"
+},
+
+{
+    
 }];
