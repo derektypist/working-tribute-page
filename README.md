@@ -1,6 +1,6 @@
 # Derek Dhammaloka Tribute Page (Working Version)
 
-Welcome to my tribute page.  The purpose of this project is to provide a tribute page of myself.  It is a working version of [Tribute Page](https://derektypist.github.io/tribute-page).
+Welcome to my tribute page.  The purpose of this project is to provide a tribute page of myself.  It is a working version of [Tribute Page](https://derektypist.github.io/tribute-page).  It is done in the same way as Tribute Page, except that the **working version** can have multiple links.  For example, Links to GitHub and LinkedIn.
 
 ## UX
 
@@ -60,5 +60,19 @@ Any changes use the command
 
     git push
 
+## Credits
 
+### Content
+
+The contents of this project was written by me.
+
+### Media
+
+The picture was taken by myself in Easter 2019.
+
+### Acknowledgements
+
+Went to Blackheath & Bromley Harriers AC Web Page (https://www.bandbhac.org.uk) for further information about myself.  Went to Gazetts and selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
+
+The quote at the bottom of this page is taken from the Simen Daehlin - Mentor - Senior JavaScript Developer (August 2019).
 
