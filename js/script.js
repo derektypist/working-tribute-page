@@ -205,7 +205,13 @@ for (let i=0; i<timeline.length; i++) {
     // Start the Unordered List
     txt += `<ul>`;
 
-    // If the url is present, provide a link to the url
+    /*  
+    
+        Make the year (e.g. 1994) bold
+        List item in the form of year - milestone
+        If the url is present, provide a link to the url
+
+    */
     if (timeline[i]["url"] != "#") {
         txt += `<li><strong>${timeline[i]["year"]} </strong>- <a href=${timeline[i]["url"]} target="_blank" title="View Details">${timeline[i]["milestone"]}</a></li>`;
     } else {
