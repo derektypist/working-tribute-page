@@ -147,5 +147,25 @@ const timeline = [{
 },
 
 {
-    
+    "year": 2012,
+    "milestone": "Joined Pinterest",
+    "url": "#"
+},
+
+{
+    "year": 2013,
+    "milestone": "Obtained First Tablet PC (Nexus 7)",
+    "url": "#"
+},
+
+{
+    "year": 2014,
+    "milestone": "Attended Paradis Latin in Paris, France",
+    "url": "#"
+},
+
+{
+    "year": 2015,
+    "milestone": "First Train Ride in Spain",
+    "url": "#"
 }];
