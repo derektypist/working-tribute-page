@@ -53,7 +53,7 @@ const timeline = [{
 {
     "year": 1993,
     "milestone": "Ran the mile in under 5 minutes for the first time",
-    "url": "https://www.bandbhac.org.uk/cr131-091993.html"
+    "url": "http://www.bandbhac.org.uk/cr131-091993.html"
 },
 
 {
