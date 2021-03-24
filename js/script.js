@@ -137,7 +137,7 @@ const timeline = [{
 {
     "year": 2010,
     "milestone": "Joined Facebook",
-    "url": "https://www.facebook.com/derekdhammaloka"
+    "url": "https://www.facebook.com/derek.dhammaloka"
 },
 
 {
@@ -167,5 +167,35 @@ const timeline = [{
 {
     "year": 2015,
     "milestone": "First Train Ride in Spain",
+    "url": "#"
+},
+
+{
+    "year": 2016,
+    "milestone": "Received a Diploma in Web Design Specialist with Pitman Training Peterborough",
+    "url": "#"
+},
+
+{
+    "year": 2017,
+    "milestone": "Went on Holiday in Prague, Czech Republic",
+    "url": "#"
+},
+
+{
+    "year": 2018,
+    "milestone": "Joined GitHub",
+    "url": "https://www.github.com/derektypist"
+},
+
+{
+    "year": 2019,
+    "milestone": "Received a Diploma in Software Development with Code Institute",
+    "url": "#"
+},
+
+{
+    "year": 2020,
+    "milestone": "Joined Career Karma",
     "url": "#"
 }];
