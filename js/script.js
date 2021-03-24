@@ -191,7 +191,7 @@ const timeline = [{
 {
     "year": 2019,
     "milestone": "Received a Diploma in Software Development with Code Institute",
-    "url": "#"
+    "url": "pdf/diploma-software-development.pdf"
 },
 
 {
