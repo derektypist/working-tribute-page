@@ -45,3 +45,14 @@ body {
     padding: 10px;
     border: 1px solid black;
 }
+
+/* Tribute Links */
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+    color: fuchsia;
+}
