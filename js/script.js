@@ -215,3 +215,6 @@ for (let i=0; i<timeline.length; i++) {
     // End the Unordered List
     txt += `</ul>`;
 }
+
+// Display the Tribute Information in the Browser Window
+document.getElementById("tribute-info").innerHTML = txt;
