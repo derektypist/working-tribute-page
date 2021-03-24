@@ -199,3 +199,19 @@ const timeline = [{
     "milestone": "Joined Career Karma",
     "url": "#"
 }];
+
+// Apply For Loop
+for (let i=0; i<timeline.length; i++) {
+    // Start the Unordered List
+    txt += `<ul>`;
+
+    // If the url is present, provide a link to the url
+    if (timeline[i]["url"] != "#") {
+        txt += `<li><strong>${timeline[i]["year"]} </strong>- <a href=${timeline[i]["url"]} target="_blank" title="View Details">${timeline[i]["milestone"]}</a></li>`;
+    } else {
+        txt += `<li><strong>${timeline[i]["year"]} </strong>- ${timeline[i]["milestone"]}</li>`;
+    }
+
+    // End the Unordered List
+    txt += `</ul>`;
+}
