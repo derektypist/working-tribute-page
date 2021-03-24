@@ -47,7 +47,7 @@ const timeline = [{
 {
     "year": 1991,
     "milestone": "Received a BSc in Maths, Statistics and Computing",
-    "url": "#"
+    "url": "pdf/degree-maths-stats-comp.pdf"
 }, 
 
 {
