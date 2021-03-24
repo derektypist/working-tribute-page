@@ -23,6 +23,10 @@ An object array called timeline has the structure of the form:
 
 As a user, I want to see a timeline of milestones, which include computing, travel, education and other personal things (e.g. Attended First Horse Race in Epsom, Surrey).  They can go to additional information about the milestone without having to leave the tribute page.  The link is coloured green.  Hovering over the link, the colour changes to fuchsia and a screentip (View Details) is displayed.
 
+As a user, I would like to see the img element responsively resize, relative to the width of the parent element, without exceeding its original size.  The max-width is set to 100%.
+
+As a user, I would like to see the img element centered within its parent element.  Display is set to block and margin is set to auto.
+
 PDF Files are provided.
 
 * [Diploma in Software Development](pdf/diploma-software-development.pdf)
@@ -31,3 +35,30 @@ PDF Files are provided.
 * [Associate Member of BCS](pdf/ambcs-certificate.pdf)
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
+
+## Features
+
+Responsive Image, Links to External Websites or PDF Files and Timeline.  Further links will be added.
+
+## Technologies
+
+This project uses the technologies of HTML5, CSS3, JavaScript and Google Fonts.  JavaScript is used to manipulate the object array.
+
+## Testing
+
+Manually check the links to ensure that they are pointing to the correct destination.  Links to external web pages or PDF files should open in a new window.
+
+## Deployment
+
+This project is deployed on GitHub Pages at https://derektypist.github.io/working-tribute-page using the main branch.
+
+Remote setup use the command
+
+    git remote add origin https://github.com/derektypist/working-tribute-page
+
+Any changes use the command
+
+    git push
+
+
+
