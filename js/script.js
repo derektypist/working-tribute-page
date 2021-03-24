@@ -29,7 +29,7 @@ const timeline = [{
 {
     "year": 1986,
     "milestone": "Received 5 'O' Levels in Maths, Physics, Chemistry, Economics and Computer Studies",
-    "url": "#"
+    "url": "https://www.linkedin.com/in/derekdhammaloka"
 },
 
 {
@@ -173,7 +173,7 @@ const timeline = [{
 {
     "year": 2016,
     "milestone": "Received a Diploma in Web Design Specialist with Pitman Training Peterborough",
-    "url": "#"
+    "url": "pdf/diploma-web-design-specialist.pdf"
 },
 
 {
