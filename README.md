@@ -35,6 +35,8 @@ As a user, I would like to see the img element centered within its parent elemen
     * Diploma in Web Design Specialist
     * Spring Conference 2002
     * O Levels in 1986
+    * Joining Pinterest in 2012
+    * Joining Career Karma in 2020
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
 
