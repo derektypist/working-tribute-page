@@ -27,12 +27,14 @@ As a user, I would like to see the img element responsively resize, relative to 
 
 As a user, I would like to see the img element centered within its parent element.  Display is set to block and margin is set to auto.
 
-PDF Files are provided.
+[PDF Files](pdf) are provided.
 
-* [Diploma in Software Development](pdf/diploma-software-development.pdf)
-* [Degree in Maths, Statistics and Computing](pdf/degree-maths-stats-comp.pdf)
-* [Diploma in Web Design Specialist](pdf/diploma-web-design-specialist.pdf)
-* [Associate Member of BCS](pdf/ambcs-certificate.pdf)
+    * AMBCS Certificate
+    * Degree in Maths, Statistics and computing
+    * Diploma in Software Development
+    * Diploma in Web Design Specialist
+    * Spring Conference 2002
+    * O Levels in 1986
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
 
@@ -73,6 +75,8 @@ The picture was taken by myself in Easter 2019.
 ### Acknowledgements
 
 Went to Blackheath & Bromley Harriers AC Web Page (https://www.bandbhac.org.uk) for further information about myself.  Went to Gazetts and selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
+
+Institute of Qualified Private Secretaries (IQPS) for Details of Spring Conference in 2002.
 
 The quote at the bottom of this page is taken from the Simen Daehlin - Mentor - Senior JavaScript Developer (August 2019).
 
