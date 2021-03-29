@@ -95,7 +95,7 @@ const timeline = [{
 {
     "year": 2002,
     "milestone": "Attended First Conference (Vision Without Boundaries) at Hammersmith, London",
-    "url": "#"
+    "url": "pdf/iqps-spring-conferencd-2002.pdf"
 }, 
 
 {
