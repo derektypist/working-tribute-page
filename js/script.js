@@ -149,7 +149,7 @@ const timeline = [{
 {
     "year": 2012,
     "milestone": "Joined Pinterest",
-    "url": "#"
+    "url": "pdf/pinterest-join.pdf"
 },
 
 {
@@ -197,7 +197,7 @@ const timeline = [{
 {
     "year": 2020,
     "milestone": "Joined Career Karma",
-    "url": "#"
+    "url": "pdf/career-karma-join.pdf"
 }];
 
 // Apply For Loop
