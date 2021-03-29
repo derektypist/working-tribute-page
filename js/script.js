@@ -29,7 +29,7 @@ const timeline = [{
 {
     "year": 1986,
     "milestone": "Received 5 'O' Levels in Maths, Physics, Chemistry, Economics and Computer Studies",
-    "url": "https://www.linkedin.com/in/derekdhammaloka"
+    "url": "pdf/o-level-1986.pdf"
 },
 
 {
