@@ -46,7 +46,7 @@ As a user, I would like to see the img element centered within its parent elemen
 [PDF Files](pdf) are provided.
 
 - [AMBCS Certificate](pdf/ambcs-certificate.pdf)
-- [Degree in Maths, Statistics and Computing](pdf/degree-maths-statistics-comp.pdf)
+- [Degree in Maths, Statistics and Computing](pdf/degree-maths-stats-comp.pdf)
 - [Diploma in Software Development](pdf/diploma-software-development.pdf)
 - [Diploma in Web Design Specialist](pdf/diploma-web-design-specialist.pdf)
 - [IQPS Spring Conference 2002](pdf/iqps-spring-conference-2002.pdf)
