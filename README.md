@@ -10,16 +10,17 @@ The tribute page consists of year, milestone (e.g. Passed driving test at Sidcup
 
 In [IQPS Spring Conference 2002](pdf/iqps-spring-conference-2002.pdf), for example, there are documents in:
 
-    - Confirmation of Booking
-    - Programme
-    - Speakers
-    - Report in Career Secretary
+- Confirmation of Booking
+- Programme
+- Speakers
+- Report in Career Secretary
 
 In [O Levels](pdf/o-level-1986.pdf), for example, there is information in terms of:
 
-    - Name and Location of School
-    - Boards (e.g. University of London School Examinations Board)
-    - Grades
+- Name and Location of School (e.g. Kelsey Park School for Boys, Beckenham)
+- Boards (e.g. University of London School Examinations Board)
+- Month (e.g. June)
+- Grades (e.g. B in Chemistry)
 
 Organising principle is timeline.
 
@@ -44,14 +45,14 @@ As a user, I would like to see the img element centered within its parent elemen
 
 [PDF Files](pdf) are provided.
 
-    - AMBCS Certificate
-    - Degree in Maths, Statistics and computing
-    - Diploma in Software Development
-    - Diploma in Web Design Specialist
-    - Spring Conference 2002
-    - O Levels in 1986
-    - Joining Pinterest in 2012
-    - Joining Career Karma in 2020
+- [AMBCS Certificate](pdf/ambcs-certificate.pdf)
+- [Degree in Maths, Statistics and Computing](pdf/degree-maths-statistics-comp.pdf)
+- [Diploma in Software Development](pdf/diploma-software-development.pdf)
+- [Diploma in Web Design Specialist](pdf/diploma-web-design-specialist.pdf)
+- [IQPS Spring Conference 2002](pdf/iqps-spring-conference-2002.pdf)
+- [O Levels in 1986](pdf/o-level-1986.pdf)
+- [Joining Pinterest in 2012](pdf/pinterest-join.pdf)
+- [Joining Career Karma in 2020](pdf/career-karma-join.pdf)
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
 
@@ -91,7 +92,7 @@ The picture was taken by myself in Easter 2019.
 
 ### Acknowledgements
 
-Went to Blackheath & Bromley Harriers AC Web Page (https://www.bandbhac.org.uk) for further information about myself.  Went to Gazetts and selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
+Went to Blackheath & Bromley Harriers AC Web Page (http://www.bandbhac.org.uk) for further information about myself.  Went to Gazettes and selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
 
 Institute of Qualified Private Secretaries (IQPS) for Details of Spring Conference in 2002.
 
