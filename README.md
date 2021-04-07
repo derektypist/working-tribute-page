@@ -6,7 +6,22 @@ Welcome to my tribute page.  The purpose of this project is to provide a tribute
 
 The tribute page provides my name, slogan, image (including caption) and information.
 
-The tribute page consists of year, milestone (e.g. Passed driving test at Sidcup, Kent) and url (if any).  The year is an integer (e.g. 1994).  The milestone is a string (e.g. Passed driving test at Sidcup, Kent).  The url is a string, which can be a link to a pdf file or external website (e.g. LinkedIn) where more information of this milestone is achieved.  Organising principle is timeline.
+The tribute page consists of year, milestone (e.g. Passed driving test at Sidcup, Kent) and url (if any).  The year is an integer (e.g. 1994).  The milestone is a string (e.g. Passed driving test at Sidcup, Kent).  The url is a string, which can be a link to a pdf file or external website (e.g. LinkedIn) where more information of this milestone is achieved.  
+
+In [IQPS Spring Conference 2002](pdf/iqps-spring-conference-2002.pdf), for example, there are documents in:
+
+    - Confirmation of Booking
+    - Programme
+    - Speakers
+    - Report in Career Secretary
+
+In [O Levels](pdf/o-level-1986.pdf), for example, there is information in terms of:
+
+    - Name and Location of School
+    - Boards (e.g. University of London School Examinations Board)
+    - Grades
+
+Organising principle is timeline.
 
 An object array called timeline has the structure of the form:
 
@@ -29,14 +44,14 @@ As a user, I would like to see the img element centered within its parent elemen
 
 [PDF Files](pdf) are provided.
 
-    * AMBCS Certificate
-    * Degree in Maths, Statistics and computing
-    * Diploma in Software Development
-    * Diploma in Web Design Specialist
-    * Spring Conference 2002
-    * O Levels in 1986
-    * Joining Pinterest in 2012
-    * Joining Career Karma in 2020
+    - AMBCS Certificate
+    - Degree in Maths, Statistics and computing
+    - Diploma in Software Development
+    - Diploma in Web Design Specialist
+    - Spring Conference 2002
+    - O Levels in 1986
+    - Joining Pinterest in 2012
+    - Joining Career Karma in 2020
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
 
