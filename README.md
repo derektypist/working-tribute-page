@@ -22,6 +22,11 @@ In [O Levels](pdf/o-level-1986.pdf), for example, there is information in terms 
 - Month (e.g. June)
 - Grades (e.g. B in Chemistry)
 
+In [Belgium 1982](pdf/belgium-1982.pdf), for example, there is information in terms of:
+
+- Invoice
+- Information Sheet on De Haan Holiday Village
+
 Organising principle is timeline.
 
 An object array called timeline has the structure of the form:
