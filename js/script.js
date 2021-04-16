@@ -17,7 +17,7 @@ const timeline = [{
 {
     "year": 1982,
     "milestone": "First holiday abroad in Belgium",
-    "url": "#"
+    "url": "pdf/belgium-1982.pdf"
 },
 
 {
