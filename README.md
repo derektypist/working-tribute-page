@@ -42,7 +42,9 @@ An object array called timeline has the structure of the form:
         {...}
     ];
 
-As a user, I want to see a timeline of milestones, which include computing, travel, education and other personal things (e.g. Attended First Horse Race in Epsom, Surrey).  They can go to additional information about the milestone without having to leave the tribute page.  The link is coloured green.  Hovering over the link, the colour changes to fuchsia and a screentip (View Details) is displayed.
+As a user, I want to see a timeline of milestones, which include computing, travel, education and other personal things (e.g. Attended First Horse Race in Epsom, Surrey).  
+
+As a user, I want to go to additional information about the milestone without having to leave the tribute page.  The link is coloured green.  Hovering over the link, the colour changes to fuchsia and a screentip (View Details) is displayed.  When that link is clicked, the web page or pdf file is opened in a new window.
 
 As a user, I would like to see the img element responsively resize, relative to the width of the parent element, without exceeding its original size.  The max-width is set to 100%.
 
@@ -51,11 +53,13 @@ As a user, I would like to see the img element centered within its parent elemen
 [PDF Files](pdf) are provided.
 
 - [AMBCS Certificate](pdf/ambcs-certificate.pdf)
+- [Belgium in 1982](pdf/belgium-1982.pdf)
 - [Degree in Maths, Statistics and Computing](pdf/degree-maths-stats-comp.pdf)
 - [Diploma in Software Development](pdf/diploma-software-development.pdf)
 - [Diploma in Web Design Specialist](pdf/diploma-web-design-specialist.pdf)
 - [IQPS Spring Conference 2002](pdf/iqps-spring-conference-2002.pdf)
 - [O Levels in 1986](pdf/o-level-1986.pdf)
+- [Joining BCS in 2004](pdf/bcs-join-2004.pdf)
 - [Joining Pinterest in 2012](pdf/pinterest-join.pdf)
 - [Joining Career Karma in 2020](pdf/career-karma-join.pdf)
 
