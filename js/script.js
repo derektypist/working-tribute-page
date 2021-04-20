@@ -107,7 +107,7 @@ const timeline = [{
 {
     "year": 2004,
     "milestone": "Joined the British Computer Society (BCS) at Affiliate Level",
-    "url": "#"
+    "url": "pdf/bcs-join-2004.pdf"
 },
 
 {
