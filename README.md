@@ -27,6 +27,8 @@ In [Belgium 1982](pdf/belgium-1982.pdf), for example, there is information in te
 - Invoice
 - Information Sheet on De Haan Holiday Village
 
+In [First Internet 1997](pdf/first-internet-1997.pdf), for example, there is information about provider (on headed paper).
+
 Organising principle is timeline.
 
 An object array called timeline has the structure of the form:
@@ -62,6 +64,7 @@ As a user, I would like to see the img element centered within its parent elemen
 - [Joining BCS in 2004](pdf/bcs-join-2004.pdf)
 - [Joining Pinterest in 2012](pdf/pinterest-join.pdf)
 - [Joining Career Karma in 2020](pdf/career-karma-join.pdf)
+- [First Use of Internet and E-mail in 1997](pdf/first-internet-1997.pdf)
 
 [Wireframes](wireframes/wireframe-tribute-page.png) are provided.
 
