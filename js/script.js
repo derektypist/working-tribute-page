@@ -71,7 +71,7 @@ const timeline = [{
 {
     "year": 1997,
     "milestone": "First use of the Internet and E-mail",
-    "url": "#"
+    "url": "pdf/first-internet-1997.pdf"
 },
 
 {
