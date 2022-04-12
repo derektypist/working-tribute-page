@@ -198,6 +198,12 @@ const timeline = [{
     "year": 2020,
     "milestone": "Joined Career Karma",
     "url": "pdf/career-karma-join.pdf"
+},
+
+{
+    "year": 2021,
+    "milestone": "Joined Code Signal",
+    "url": "#"
 }];
 
 // Apply For Loop
