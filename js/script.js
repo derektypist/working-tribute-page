@@ -204,6 +204,12 @@ const timeline = [{
     "year": 2021,
     "milestone": "Joined Code Signal",
     "url": "#"
+},
+
+{
+    "year": 2022,
+    "milestone": "Obtained First TV Licence",
+    "url": "#"
 }];
 
 // Apply For Loop
