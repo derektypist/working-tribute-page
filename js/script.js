@@ -208,8 +208,8 @@ const timeline = [{
 
 {
     "year": 2022,
-    "milestone": "Obtained First TV Licence",
-    "url": "#"
+    "milestone": "Became a BCS Professional Member",
+    "url": "pdf/mbcs-certificate.pdf"
 }];
 
 // Apply For Loop
