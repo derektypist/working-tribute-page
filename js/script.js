@@ -6,7 +6,7 @@ const timeline = [{
     "year": 1969,
     "milestone": "Born in Bromley, Kent",
     "url": "#"
-}, 
+},
 
 {
     "year": 1980,
@@ -24,7 +24,7 @@ const timeline = [{
     "year": 1983,
     "milestone": "First plane ride to Spain",
     "url": "#"
-}, 
+},
 
 {
     "year": 1986,
@@ -36,7 +36,7 @@ const timeline = [{
     "year": 1987,
     "milestone": "Obtained First Printer (Citizen LSP-10) for a computer (BBC Microcomputer)",
     "url": "#"
-}, 
+},
 
 {
     "year": 1988,
@@ -48,7 +48,7 @@ const timeline = [{
     "year": 1991,
     "milestone": "Received a BSc in Maths, Statistics and Computing",
     "url": "pdf/degree-maths-stats-comp.pdf"
-}, 
+},
 
 {
     "year": 1993,
@@ -78,7 +78,7 @@ const timeline = [{
     "year": 1998,
     "milestone": "First use of Microsoft Excel",
     "url": "#"
-}, 
+},
 
 {
     "year": 1999,
@@ -96,7 +96,7 @@ const timeline = [{
     "year": 2002,
     "milestone": "Attended First Conference (Vision Without Boundaries) at Hammersmith, London",
     "url": "pdf/iqps-spring-conference-2002.pdf"
-}, 
+},
 
 {
     "year": 2003,
@@ -210,10 +210,16 @@ const timeline = [{
     "year": 2022,
     "milestone": "Became a BCS Professional Member",
     "url": "pdf/mbcs-certificate.pdf"
+}, 
+
+{
+    "year": 2023,
+    "milestone": "Created first portfolio project with PHP",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7105948846618275840/"
 }];
 
 // Apply For Loop
-for (let i=0; i<timeline.length; i++) {
+for (let i = 0; i < timeline.length; i++) {
     // Start the Unordered List
     txt += `<ul>`;
 
